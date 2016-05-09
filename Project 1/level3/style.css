@@ -1,0 +1,27 @@
+* {
+  margin: 5px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Work Sans", verdana, sans-serif;
+  background-image: url('http://www.technocrazed.com/wp-content/uploads/2015/11/HD-Galaxy-Wallpapers-Free-Download-119.jpg');
+  background-position: top center;
+  color: #ffffff;
+}
+
+header {
+  top: 0;
+  width: 100%;
+  position: fixed;
+}
+
+header div {
+  width: 50%;
+  float: left;
+}
+
+header h1 {
+  font-weight: normal;
+}
